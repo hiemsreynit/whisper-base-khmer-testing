@@ -1,0 +1,6 @@
+{
+    "model": "sengtha/whisper-base-khmer",
+    "audio_file": "audio/test_audi_4.wav",
+    "transcription": "មុខម្ហូបតាមដងផ្លូវគឺជាមុខម្ហូបមួយមានភាពសម្បូរបែប និងមានភាពងាយស្រួលដែលគេពេញនិយមក្នុងការបរិភពថែមតាំងមានតំណៃសមរម្យ។",
+    "processing_time_seconds": 21.74
+}
